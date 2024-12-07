@@ -1,0 +1,4 @@
+admin@example.com,1234,null,AdminUser
+user1@example.com,1234,Customer
+test@test.com,1234,Customer
+test1@test.com,1234,ServiceProvider
